@@ -18,4 +18,13 @@ describe("Pool Store", () => {
     expect(state.userContributionsUSD).toBe(39.5);
     expect(state.userProtectionActive).toBe(true);
   });
+
+  it("should increment member count when user joins pool", () => {
+    const initialMembers = INITIAL_POOLS[0].membersCount;
+    const { joinPool } = usePoolStore.getState();
+    joinPool(INITIAL_POOLS[0].id);
+
+    const state = usePoolStore.getState();
+    expect(state.pools[0].membersCount).toBe(initialMembers + 1);
+  });
 });
