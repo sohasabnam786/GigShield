@@ -26,8 +26,8 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar & Soroban
 | **WASM Upload Transaction** | [`20dad70c4516...`](https://stellar.expert/explorer/testnet/tx/20dad70c45169781e5c735ebbcb83e5c3a33695a9ddd31a5f1f91bae07d9c1a3) |
 | **Contract Deployment Tx** | [`03e1011d977d...`](https://stellar.expert/explorer/testnet/tx/03e1011d977dfec46c6b2b07e6b75ac470fb381fad4f3d6f72927678db9433f7) |
 | **Freighter Wallet Address** | [`GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2`](https://stellar.expert/explorer/testnet/account/GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2) |
-| **Live Deployment** | [gig-shield.vercel.app](https://gig-shield.vercel.app) |
-| **Demo Video Link** | [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1aM0NfLm9eocSIrAoBmcSo2Xybec51HFz/view?usp=sharing) |
+| **Live Deployment** | [gig-shield-seven-neon.vercel.app](https://gig-shield-seven-neon.vercel.app/) |
+| **Demo Video Link** | [Watch Demo Video on YouTube](https://youtu.be/DHhqw3CL40A) |
 
 ---
 
