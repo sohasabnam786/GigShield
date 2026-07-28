@@ -17,15 +17,14 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar & Soroban
 
 > [!IMPORTANT]
 > **🌟 Primary Contract Deployment Address (Main Submission Entry Point):**
-> [`CCJWXC7WJ2NA2MXQIGSLI5PFYHBRBKXIWMOGTSZPQVDKDDL7HBFQYVL5`](https://stellar.expert/explorer/testnet/contract/CCJWXC7WJ2NA2MXQIGSLI5PFYHBRBKXIWMOGTSZPQVDKDDL7HBFQYVL5)
-> *(This is the core entry point contract managing micro-contributions, worker registration, and pool reserve escrow on Stellar Testnet).*
+> [`CCQSJIGQIRZ4THGHQKND35AVGGAJXGYORZQQ5D6A4UEZG3TUZWVI6YAR`](https://stellar.expert/explorer/testnet/contract/CCQSJIGQIRZ4THGHQKND35AVGGAJXGYORZQQ5D6A4UEZG3TUZWVI6YAR)
+> *(This is the live verified contract managing micro-contributions, worker registration, and pool reserve escrow deployed on Stellar Testnet).*
 
 | Resource / Role | Value / Explorer Link |
 | :--- | :--- |
-| **PoolManager Contract ID** | [`CCJWXC7WJ2NA2MXQIGSLI5PFYHBRBKXIWMOGTSZPQVDKDDL7HBFQYVL5`](https://stellar.expert/explorer/testnet/contract/CCJWXC7WJ2NA2MXQIGSLI5PFYHBRBKXIWMOGTSZPQVDKDDL7HBFQYVL5) |
-| **ClaimGovernance Contract ID** | [`CDZEP67LRD6FACWRX5UYVZANRT5RGEBUF33BQVYVDOFGSJG5MAZEBNAM`](https://stellar.expert/explorer/testnet/contract/CDZEP67LRD6FACWRX5UYVZANRT5RGEBUF33BQVYVDOFGSJG5MAZEBNAM) |
-| **SettlementEngine Contract ID** | [`CBKZZDUGIK5BW74UJKCAXLLPW37NQIKME3MCAIU34MHAONJQQNM4PKGR`](https://stellar.expert/explorer/testnet/contract/CBKZZDUGIK5BW74UJKCAXLLPW37NQIKME3MCAIU34MHAONJQQNM4PKGR) |
-| **Deployer Wallet Address** | [`GCIJZKV5R2HZMJXORVEICVASFQJAJJAHCZTITWOETN7ATAFEF2UYDZAD`](https://stellar.expert/explorer/testnet/account/GCIJZKV5R2HZMJXORVEICVASFQJAJJAHCZTITWOETN7ATAFEF2UYDZAD) |
+| **PoolManager Contract ID** | [`CCQSJIGQIRZ4THGHQKND35AVGGAJXGYORZQQ5D6A4UEZG3TUZWVI6YAR`](https://stellar.expert/explorer/testnet/contract/CCQSJIGQIRZ4THGHQKND35AVGGAJXGYORZQQ5D6A4UEZG3TUZWVI6YAR) |
+| **WASM Upload Transaction** | [`20dad70c4516...`](https://stellar.expert/explorer/testnet/tx/20dad70c45169781e5c735ebbcb83e5c3a33695a9ddd31a5f1f91bae07d9c1a3) |
+| **Contract Deployment Tx** | [`03e1011d977d...`](https://stellar.expert/explorer/testnet/tx/03e1011d977dfec46c6b2b07e6b75ac470fb381fad4f3d6f72927678db9433f7) |
 | **Freighter Wallet Address** | [`GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2`](https://stellar.expert/explorer/testnet/account/GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2) |
 | **Live Deployment** | [gig-shield.vercel.app](https://gig-shield.vercel.app) |
 | **Demo Video Link** | [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1aM0NfLm9eocSIrAoBmcSo2Xybec51HFz/view?usp=sharing) |
@@ -150,7 +149,7 @@ graph TB
 > — **Delivery Rider in Mumbai** (`GB47AVQI...`)
 
 > 🗣️ *"Submitted a medical claim after a road accident during delivery. My peer pool validators voted and approved it in less than 6 hours!"*  
-> — **Delivery Rider in Manila** (`GDXKXZ57...`)
+> — **Delivery Rider in Manila** (`GDXKXKXZ...`)
 
 > 🗣️ *"Depositing INR via UPI using Fonbnk SEP-24 anchor took less than 10 seconds. Super smooth experience for gig workers who don't know crypto."*  
 > — **Domestic Worker in India** (`GBK6XCS5...`)
