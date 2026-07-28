@@ -19,6 +19,11 @@ export const CONTRACT_ADDRESSES = {
 
 export const horizonServer = new Horizon.Server(STELLAR_NETWORK.horizonUrl);
 
+/**
+ * Fetches account details and balances from Stellar Testnet Horizon RPC
+ * @param publicKey 56-character G-address public key
+ * @returns Horizon account response or null on error
+ */
 export async function fetchAccountDetails(publicKey: string) {
   try {
     const account = await horizonServer.loadAccount(publicKey);
