@@ -6,6 +6,10 @@ import { useWalletStore } from "@/store/walletStore";
 import { MessageSquare, Star, Send, ShieldCheck, User } from "lucide-react";
 import { toast } from "sonner";
 
+/**
+ * Level 4 User Feedback & Product Validation Modal Component
+ * Manages feedback submission, localStorage persistence, and rating analytics.
+ */
 export default function UserFeedbackModal() {
   const { address } = useWalletStore();
   const [feedbackList, setFeedbackList] = useState<UserFeedback[]>(INITIAL_USER_FEEDBACK);
