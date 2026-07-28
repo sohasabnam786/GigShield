@@ -19,7 +19,7 @@ export default function PoolCard({ pool }: PoolCardProps) {
   };
 
   return (
-    <div className="glass-panel rounded-2xl p-6 border border-white/10 hover:border-emerald-500/40 transition-all space-y-5 group">
+    <div className="glass-panel rounded-2xl p-6 border border-white/10 hover:border-emerald-500/40 hover:-translate-y-1 transition-all duration-300 space-y-5 group">
       <div className="flex items-start justify-between">
         <div className="flex items-center gap-3">
           <div className="text-3xl p-3 bg-secondary/80 rounded-2xl border border-white/5 group-hover:scale-110 transition-transform">
