@@ -1,0 +1,1 @@
+/mnt/d/sd-project/RISE-IN/GigShield/contracts/target/wasm32-unknown-unknown/release/libpool_manager.rlib: /mnt/d/sd-project/RISE-IN/GigShield/contracts/pool_manager/src/lib.rs /mnt/d/sd-project/RISE-IN/GigShield/contracts/pool_manager/src/types.rs

@@ -1,0 +1,1 @@
+/mnt/d/sd-project/RISE-IN/GigShield/contracts/target/wasm32-unknown-unknown/release/claim_governance.wasm: /mnt/d/sd-project/RISE-IN/GigShield/contracts/claim_governance/src/lib.rs /mnt/d/sd-project/RISE-IN/GigShield/contracts/claim_governance/src/types.rs
