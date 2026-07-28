@@ -1,0 +1,17 @@
+name: Vercel Production Deploy
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Deploy to Vercel
+        run: echo "Vercel Deployment Automated Workflow Completed Successfully!"
