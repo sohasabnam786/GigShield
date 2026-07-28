@@ -74,6 +74,7 @@ export default function Footer() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 mt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4">
         <p>© 2026 GigShield Protocol. All rights reserved.</p>
+        <span className="text-[11px] font-mono text-emerald-400/80">Powered by Stellar & Soroban Testnet</span>
       </div>
     </footer>
   );
