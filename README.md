@@ -26,7 +26,7 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar & Soroban
 | **ClaimGovernance Contract ID** | [`CBMFYE434L3XK4XSTFDXRPABU3KOFRFOKABEUOGTCGTPGLASYB2GF4LA`](https://stellar.expert/explorer/testnet/contract/CBMFYE434L3XK4XSTFDXRPABU3KOFRFOKABEUOGTCGTPGLASYB2GF4LA) |
 | **SettlementEngine Contract ID** | [`CAGIFCUOWD3W4QMWMK2ZLZNYJOLF6HHNQ4K2UGFQGB7MXUSLOWDVWVS2`](https://stellar.expert/explorer/testnet/contract/CAGIFCUOWD3W4QMWMK2ZLZNYJOLF6HHNQ4K2UGFQGB7MXUSLOWDVWVS2) |
 | **Deployer Wallet Address** | [`GC45MTVQ7DZJ2JAEVQWXJ5BNO4DY6AXEZSBGL7RVUKOOG7GXREV73VGW`](https://stellar.expert/explorer/testnet/account/GC45MTVQ7DZJ2JAEVQWXJ5BNO4DY6AXEZSBGL7RVUKOOG7GXREV73VGW) |
-| **Freighter Wallet Address** | [`GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG`](https://stellar.expert/explorer/testnet/account/GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG) |
+| **Freighter Wallet Address** | [`GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2`](https://stellar.expert/explorer/testnet/account/GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2) |
 | **Live Deployment** | [gig-shield.vercel.app](https://gig-shield.vercel.app) |
 | **Demo Video Link** | [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1aM0NfLm9eocSIrAoBmcSo2Xybec51HFz/view?usp=sharing) |
 

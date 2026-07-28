@@ -13,7 +13,7 @@ interface WalletState {
 }
 
 export const useWalletStore = create<WalletState>((set) => ({
-  address: "GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG",
+  address: "GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2",
   isConnected: true,
   usdcBalance: 125.5,
   xlmBalance: 45.8,

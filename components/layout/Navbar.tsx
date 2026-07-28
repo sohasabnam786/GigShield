@@ -37,7 +37,7 @@ export default function Navbar() {
       disconnectWallet();
       toast.info("Wallet disconnected");
     } else {
-      connectWallet("GDSFFHT4YTWUFV4GI7KROZPPLN5LEEJPUR24HTO4BDJPGZVPV3PPKIOG");
+      connectWallet("GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2");
       toast.success("Connected Freighter Stellar Wallet!");
     }
   };
