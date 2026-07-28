@@ -52,6 +52,12 @@ export const SUPPORTED_ANCHORS: AnchorInfo[] = [
   },
 ];
 
+/**
+ * Initiates an interactive SEP-24 fiat deposit session with regulated Stellar Anchors
+ * @param anchorId Target regional anchor identifier
+ * @param amountLocal Local fiat currency amount
+ * @param asset Target Stellar token asset (USDC)
+ */
 export async function initiateSEP24Deposit(anchorId: string, amountLocal: number, asset: string) {
   await new Promise((res) => setTimeout(res, 800));
   return {
