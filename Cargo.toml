@@ -1,0 +1,16 @@
+[workspace]
+members = [
+  "contracts/pool_manager",
+  "contracts/claim_governance",
+  "contracts/settlement_engine"
+]
+resolver = "2"
+
+[profile.release]
+opt-level = "z"
+overflow-checks = true
+debug = false
+strip = "symbols"
+debug-assertions = false
+panic = "abort"
+codegen-units = 1
