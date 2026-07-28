@@ -13,8 +13,8 @@ interface WalletState {
 }
 
 export const useWalletStore = create<WalletState>((set) => ({
-  address: "GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2",
-  isConnected: true,
+  address: null,
+  isConnected: false,
   usdcBalance: 125.5,
   xlmBalance: 45.8,
   selectedRole: "worker",

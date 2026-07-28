@@ -17,15 +17,15 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar & Soroban
 
 > [!IMPORTANT]
 > **🌟 Primary Contract Deployment Address (Main Submission Entry Point):**
-> [`CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC`](https://stellar.expert/explorer/testnet/contract/CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC)
-> *(This is the core entry point contract managing micro-contributions, worker registration, and pool reserve escrow).*
+> [`CCPHYXQKDZFMOVWLDTCTA4VJKIKL3IBGMPV5TXVDJGANZ2JXWKNYST5A`](https://stellar.expert/explorer/testnet/contract/CCPHYXQKDZFMOVWLDTCTA4VJKIKL3IBGMPV5TXVDJGANZ2JXWKNYST5A)
+> *(This is the freshly deployed core entry point contract managing micro-contributions, worker registration, and pool reserve escrow on Stellar Testnet).*
 
 | Resource / Role | Value / Explorer Link |
 | :--- | :--- |
-| **PoolManager Contract ID** | [`CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC`](https://stellar.expert/explorer/testnet/contract/CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC) |
-| **ClaimGovernance Contract ID** | [`CBMFYE434L3XK4XSTFDXRPABU3KOFRFOKABEUOGTCGTPGLASYB2GF4LA`](https://stellar.expert/explorer/testnet/contract/CBMFYE434L3XK4XSTFDXRPABU3KOFRFOKABEUOGTCGTPGLASYB2GF4LA) |
-| **SettlementEngine Contract ID** | [`CAGIFCUOWD3W4QMWMK2ZLZNYJOLF6HHNQ4K2UGFQGB7MXUSLOWDVWVS2`](https://stellar.expert/explorer/testnet/contract/CAGIFCUOWD3W4QMWMK2ZLZNYJOLF6HHNQ4K2UGFQGB7MXUSLOWDVWVS2) |
-| **Deployer Wallet Address** | [`GC45MTVQ7DZJ2JAEVQWXJ5BNO4DY6AXEZSBGL7RVUKOOG7GXREV73VGW`](https://stellar.expert/explorer/testnet/account/GC45MTVQ7DZJ2JAEVQWXJ5BNO4DY6AXEZSBGL7RVUKOOG7GXREV73VGW) |
+| **PoolManager Contract ID** | [`CCPHYXQKDZFMOVWLDTCTA4VJKIKL3IBGMPV5TXVDJGANZ2JXWKNYST5A`](https://stellar.expert/explorer/testnet/contract/CCPHYXQKDZFMOVWLDTCTA4VJKIKL3IBGMPV5TXVDJGANZ2JXWKNYST5A) |
+| **ClaimGovernance Contract ID** | [`CBRE5U4G4Y2FGJ5UZFBLA5GSDU45QEE32SSIPKM7ICXGHZZWC4B7BUHZ`](https://stellar.expert/explorer/testnet/contract/CBRE5U4G4Y2FGJ5UZFBLA5GSDU45QEE32SSIPKM7ICXGHZZWC4B7BUHZ) |
+| **SettlementEngine Contract ID** | [`CBYQ6RNYEKD3XZJWNL7LR7QCI6ME44YG64YLLG5HDZNSCBMD5X4KFZDT`](https://stellar.expert/explorer/testnet/contract/CBYQ6RNYEKD3XZJWNL7LR7QCI6ME44YG64YLLG5HDZNSCBMD5X4KFZDT) |
+| **Deployer Wallet Address** | [`GCO3IQQ7RNH7TB3FDJCKS3ZM3YHHVNGD42RN5RWQ3QESY7KIZVYURRQT`](https://stellar.expert/explorer/testnet/account/GCO3IQQ7RNH7TB3FDJCKS3ZM3YHHVNGD42RN5RWQ3QESY7KIZVYURRQT) |
 | **Freighter Wallet Address** | [`GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2`](https://stellar.expert/explorer/testnet/account/GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2) |
 | **Live Deployment** | [gig-shield.vercel.app](https://gig-shield.vercel.app) |
 | **Demo Video Link** | [Watch Demo Video on Google Drive](https://drive.google.com/file/d/1aM0NfLm9eocSIrAoBmcSo2Xybec51HFz/view?usp=sharing) |

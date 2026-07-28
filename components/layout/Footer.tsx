@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
-import { Shield, Github, Globe, ExternalLink } from "lucide-react";
+import { Shield, ExternalLink } from "lucide-react";
+import { CONTRACT_ADDRESSES } from "@/lib/stellar";
 
 export default function Footer() {
   return (
@@ -32,7 +33,7 @@ export default function Footer() {
           <ul className="space-y-2 font-mono text-[11px]">
             <li>
               <a
-                href="https://stellar.expert/explorer/testnet/contract/CCCOM4GDC6VFLEPG2AN7NSSUMVYXUDEWSNL5DNFZZOCNBWN3XU3AURYC"
+                href={`https://stellar.expert/explorer/testnet/contract/${CONTRACT_ADDRESSES.poolManager}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-emerald-400 flex items-center gap-1"
@@ -42,7 +43,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://stellar.expert/explorer/testnet/contract/CBMFYE434L3XK4XSTFDXRPABU3KOFRFOKABEUOGTCGTPGLASYB2GF4LA"
+                href={`https://stellar.expert/explorer/testnet/contract/${CONTRACT_ADDRESSES.claimGovernance}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-emerald-400 flex items-center gap-1"
@@ -52,7 +53,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://stellar.expert/explorer/testnet/contract/CAGIFCUOWD3W4QMWMK2ZLZNYJOLF6HHNQ4K2UGFQGB7MXUSLOWDVWVS2"
+                href={`https://stellar.expert/explorer/testnet/contract/${CONTRACT_ADDRESSES.settlementEngine}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hover:text-emerald-400 flex items-center gap-1"
@@ -73,11 +74,6 @@ export default function Footer() {
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 mt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4">
         <p>© 2026 GigShield Protocol. All rights reserved.</p>
-        <div className="flex items-center gap-4">
-          <a href="https://github.com/sohasabnam786/GigShield.git" target="_blank" rel="noopener noreferrer" className="hover:text-white flex items-center gap-1">
-            <Github className="w-4 h-4" /> GitHub Repo
-          </a>
-        </div>
       </div>
     </footer>
   );
