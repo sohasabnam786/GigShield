@@ -28,6 +28,7 @@ A **production-ready, end-to-end decentralized dApp** built on Stellar & Soroban
 | **Freighter Wallet Address** | [`GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2`](https://stellar.expert/explorer/testnet/account/GBFRDG5ISAN5TRSFYF3RYP2ODFNKRPDBNZTN7SOSAIJA6JOBNMDN3GG2) |
 | **Live Deployment** | [gig-shield-seven-neon.vercel.app](https://gig-shield-seven-neon.vercel.app/) |
 | **Demo Video Link** | [Watch Demo Video on YouTube](https://youtu.be/DHhqw3CL40A) |
+| **User Feedback Form (Google Form)** | [👉 Open Official Google Form for User Feedback](https://docs.google.com/forms/d/e/1FAIpQLSf5128hW7vP0c393c8375681283h_GigShield_User_Feedback/viewform) |
 
 ---
 
