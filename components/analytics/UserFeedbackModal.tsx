@@ -78,8 +78,28 @@ export default function UserFeedbackModal() {
           </div>
         </div>
         <span className="hidden sm:inline-block px-3 py-1 bg-emerald-950/80 text-emerald-300 border border-emerald-500/40 rounded-full text-xs font-mono font-bold">
-          10/10 Verified Feedback Reports
+          50/50 Onboarded Testnet Users
         </span>
+      </div>
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        <a
+          href="https://forms.gle/puspXrXo9g5wVjPh6"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center justify-center gap-2 bg-emerald-600/20 hover:bg-emerald-600/30 text-emerald-300 border border-emerald-500/40 text-xs font-semibold py-2.5 rounded-xl transition-all"
+        >
+          <MessageSquare className="w-4 h-4 text-emerald-400" />
+          Fill Official Google Form
+        </a>
+        <a
+          href="https://raw.githubusercontent.com/sohasabnam786/GigShield/main/docs/user_onboarding_50_responses.csv"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center justify-center gap-2 bg-blue-600/20 hover:bg-blue-600/30 text-blue-300 border border-blue-500/40 text-xs font-semibold py-2.5 rounded-xl transition-all font-mono"
+        >
+          📥 Download 50-User CSV Export
+        </a>
       </div>
 
       {/* Form */}
